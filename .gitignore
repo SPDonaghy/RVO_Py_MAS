@@ -1,5 +1,5 @@
 .DS_Store
 *.pyc
 *.avi
-snap*.png
+#snap*.png
 data/*.jpg
