@@ -32,7 +32,7 @@ goal = [[5.5-1.0*i, 5.0] for i in range(7)] + [[5.5-1.0*i, 0.0] for i in range(7
 #------------------------------
 #simulation setup
 # total simulation time (s)
-total_time = 15
+total_time = 10
 # simulation step
 step = 0.01
 
